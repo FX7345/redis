@@ -31,7 +31,7 @@ public class TestJedis {
 	        e.printStackTrace();
 	      }
 	    }
-	    System.out.println("总共时间：" + time);
+	    System.out.println("总共时chang：" + time);
 	  }
 	public static void main(String[] args) throws IOException {
 		testJedis();
